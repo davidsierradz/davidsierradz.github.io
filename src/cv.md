@@ -6,12 +6,12 @@
 > Teléfono: [300 685 1485](tel:+573006851485)  
 > GitHub: [https://github.com/davidsierradz](https://github.com/davidsierradz)
 
-Ingeniero de Sistemas con 3+ años de experiencia, enfocado al desarrollo de aplicaciones web; con gran interés en solucionar problemas, estudio de arquitecturas, utilización de estándares, optimización del rendimiento, _testing_ y competencia en herramientas de programación y _scripting_ bajo el entorno UNIX.
+Ingeniero de Sistemas con 3+ años de experiencia, enfocado al desarrollo de aplicaciones web; con gran interés en aplicar mis conocimientos para desarrollar soluciones pragmáticas a problemas tecnológicos de cualquier tipo, estudio de arquitecturas, utilización de estándares, optimización del rendimiento, escribir técnicamente de manera clara y concisa, _testing_ y competencia en herramientas de programación y _scripting_ bajo el entorno UNIX.
 
 ## Habilidades
 
-- Lenguajes de programación (JavaScript, CSS, HTML)
-- Utilización de frameworks de desarrollo ágil (Express.js y React)
+- Lenguajes de programación y marcado web (JavaScript, CSS, HTML)
+- Utilización de _frameworks_ de desarrollo ágil (Express.js, Vue.js y React)
 - Implementación de patrones de diseño orientado a objetos
 - Conocimientos en programación funcional (LISP, Scheme)
 - Alto nivel de abstracción para análisis de sistemas de información
@@ -30,15 +30,15 @@ Ingeniero de Sistemas con 3+ años de experiencia, enfocado al desarrollo de apl
 **Desarrollador Web, Netux Lab**  
 Antioquia, CO — Mayo 2019 - Presente
 
-Desarrollo de aplicaciones y servicios web en JavaScript con Nodejs.
+Desarrollo de aplicaciones y servicios web en JavaScript con Node.js:
 
-1. MiMonitor: Desarrollo del _backend_ en Nodejs con una arquitectura de microservicios con Docker y tecnologías como Express.js y Mongoose (MongoDB).
-2. MiTurno: Desarrollo del _backend_ en Nodejs con tecnologías como Redis, RabbitMQ y Postgres.
+1. MiMonitor: Desarrollo del _backend_ en Node.js con una arquitectura de microservicios con Docker y tecnologías como Express.js y Mongoose (MongoDB).
+2. MiTurno: Desarrollo del _backend_ en Node.js con tecnologías como Redis, RabbitMQ y Postgres.
 
 **Desarrollador _Full-Stack_, Íntegro**  
 Antioquia, CO — Abril 2018 - Abril 2019
 
-Desarrollo y mantenimiento de aplicaciones web en PHP y JavaScript, con énfasis en acompañamiento al cliente durante todo el ciclo de vida del proyecto.
+Desarrollo y mantenimiento de aplicaciones web en PHP y JavaScript, con énfasis en acompañamiento al cliente durante todo el ciclo de vida del proyecto:
 
 1. NISL: Aplicación web desarrollada en PHP con WordPress.
 2. NISL ALP: Aplicación en React y Express.js, utilizando una API con Apollo (GraphQL) y styled-components
@@ -46,11 +46,11 @@ Desarrollo y mantenimiento de aplicaciones web en PHP y JavaScript, con énfasis
 **Desarrollador Web, Negocios En Digital**  
 Magdalena, CO — Junio 2017 - Febrero 2018
 
-Desarrollo de páginas y aplicaciones web en el CMS WordPress y/o HTML5 con CSS3 y JavaScript.
+Desarrollo de páginas y aplicaciones web en el CMS WordPress y/o HTML5 con CSS3 y JavaScript:
 
 1. Nespresso Blog Our Choices: Aplicación web construida con Vue.js utilizando CSS Grid y webpack.
-2. Nespresso Origins Of Coffee: Minisitio hecho con CSS Flexbox, CSS BEM y Sass.
-3. Nespresso Barista: Minisitio hecho con Divi y CSS Flexbox.
+2. Nespresso Origins Of Coffee: Mini sitio hecho con CSS Flexbox, CSS BEM y Sass.
+3. Nespresso Barista: Mini sitio hecho con Divi y CSS Flexbox.
 4. WhatsApp Manager: Prueba de concepto de una WebExtension para un navegador web con el fin de manejar una cuenta de WhatsApp, conectada a una API en Laravel por medio de WebSockets.
 5. Nespresso República Dominicana: Tienda WordPress con tema creado desde cero, integración con WooCommerce.
 6. Viviendata: Sitio web para inmobiliaria en WordPress.
@@ -60,10 +60,10 @@ Desarrollo de páginas y aplicaciones web en el CMS WordPress y/o HTML5 con CSS3
 **Programador Junior, Eljovi Technologies**  
 Magdalena, CO — Marzo 2016 - Febrero 2017
 
-Desarrollo del back-end en aplicaciones web, principalmente bajo el entorno de LNMP (Linux-Nginx-MySQL-PHP) con el framework Laravel.
+Desarrollo del back-end en aplicaciones web, principalmente bajo el entorno de LNMP (Linux-Nginx-MySQL-PHP) con el _framework_ Laravel:
 
 1. Eljovi: Panel de control para proyectos internos, sitios web y social media hecho en Laravel.
-2. H-Trade: Sistema multinivel con referidos en PHP.
+2. H-Trade: Sistema multi nivel con referidos en PHP.
 3. WealthFriends: Sitio web realizado con HTML5.
 
 ## Educación
@@ -73,7 +73,7 @@ Magdalena, CO — 2009 - 2016
 
 ## Meta
 
-Versión: 2.0  
+Versión: 2.1  
 Puedes revisar la última versión de la hoja de vida en:
 
 - PDF: [https://davidsierra.ml/dist/cv.pdf](https://davidsierra.ml/dist/cv.pdf)
