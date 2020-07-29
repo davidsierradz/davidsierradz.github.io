@@ -5,8 +5,8 @@ Ingeniero de Software
 ---------------------
 
 > Correo: <davidsierradz@gmail.com>\
-> Teléfono: [300 685 1485](tel:+573006851485)\
-> GitHub: <https://github.com/davidsierradz>
+> GitHub: <https://github.com/davidsierradz>\
+> LinkedIn: <https://linkedin.com/in/davidsierradz>
 
 Ingeniero de Sistemas con 3+ años de experiencia, enfocado al desarrollo
 de aplicaciones web; con gran interés en aplicar mis conocimientos para
@@ -105,10 +105,10 @@ Magdalena, CO --- 2009 - 2016
 Meta
 ----
 
-Versión: 2.1\
+Versión: 2.2\
 Puedes revisar la última versión de la hoja de vida en:
 
--   PDF: <https://davidsierra.ml/dist/cv.pdf>
--   DOC: <https://davidsierra.ml/dist/cv.odt>
--   HTML: <https://davidsierra.ml/dist/cv.html>
--   Markdown: <https://davidsierra.ml/dist/cv.md>
+-   PDF: <https://davidsierra.xyz/dist/cv.pdf>
+-   DOC: <https://davidsierra.xyz/dist/cv.odt>
+-   HTML: <https://davidsierra.xyz/dist/cv.html>
+-   Markdown: <https://davidsierra.xyz/dist/cv.md>
