@@ -105,10 +105,10 @@ Magdalena, CO --- 2009 - 2016
 Meta
 ----
 
-Versión: 2.2\
+Versión: 2.3\
 Puedes revisar la última versión de la hoja de vida en:
 
--   PDF: <https://davidsierra.xyz/dist/cv.pdf>
--   DOC: <https://davidsierra.xyz/dist/cv.odt>
--   HTML: <https://davidsierra.xyz/dist/cv.html>
--   Markdown: <https://davidsierra.xyz/dist/cv.md>
+-   PDF: <https://davidsierra.dev/dist/cv.pdf>
+-   DOC: <https://davidsierra.dev/dist/cv.odt>
+-   HTML: <https://davidsierra.dev/dist/cv.html>
+-   Markdown: <https://davidsierra.dev/dist/cv.md>
